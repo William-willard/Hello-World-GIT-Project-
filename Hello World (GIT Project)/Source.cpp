@@ -3,7 +3,7 @@
 
 int main() {
 
-	std::string helloWorld = "Hello World...";
+	std::string helloWorld = "Hello Universe...";
 
 	std::cout << helloWorld << std::endl;
 
